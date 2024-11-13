@@ -44,7 +44,7 @@ To create a site for the Llynfi Valley Angling Association for visitors who want
 
 ### User Stories:  
 
-As a potential new member, I want to:  
+As a **potential new member**, I want to:  
 
  ⦁	Be able to easily navigate throughout the site  
 
@@ -57,7 +57,7 @@ As a potential new member, I want to:
  ⦁	See photos of fish, the river, environment etc  
  
 
-As returning member, I want:  
+As **returning member**, I want:  
 
  ⦁	Be able to share photos of catches  
 
