@@ -7,5 +7,5 @@
 ### About Us:
 ![About Us](assets/wireframes/about-us.png)
 
-### Contact Us:
-![Contact Us](assets/wireframes/contact-us.png)
+### Gallery:
+![Gallery](assets/wireframes/gallery.png)
