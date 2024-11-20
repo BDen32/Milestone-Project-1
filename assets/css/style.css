@@ -5,6 +5,8 @@
 :root {
     --primary-color: #595736; /*brown*/
     --secondary-color: #BDD9F2; /*light blue*/
+    --tertiary-color: #bfa29b; /*beige*/
+    --quartenary-color: #3e5916; /*dark green*/
 }
 
 /*General styles*/
@@ -28,6 +30,7 @@ body {
 height: 500px;
 width: 100%;
 background: url(../images/llynfi-1.jpg) no-repeat center center/cover;
+color: #260601;
 }
 
 #cover-text {
@@ -43,9 +46,15 @@ background: url(../images/llynfi-1.jpg) no-repeat center center/cover;
 
 }
 
+/*Main section*/
+.card {
+    color:#260601;
+    background-color: var(--tertiary-color);
+}
+
 /*Footer*/
 footer {
-    background-color: orange;
+    background-color:var(--quartenary-color);
     padding-top: 20px;
 }
 
@@ -55,7 +64,7 @@ footer {
 
 #social-networks i {
     font-size: 20px;
-    color: black;
+    color: var(--secondary-color);
 }
 
 /* grid visualisation CSS for testing
