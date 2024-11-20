@@ -1,6 +1,11 @@
 /*Google fonts import*/
 @import url('https://fonts.googleapis.com/css2?family=Bona+Nova:wght@700&family=Catamaran:wght@100..900&family=Gowun+Dodum&display=swap');
 
+/*CSS Variables*/
+:root {
+    --primary-color: #595736; /*brown*/
+    --secondary-color: #BDD9F2; /*light blue*/
+}
 
 /*General styles*/
 body {
@@ -9,13 +14,14 @@ body {
 
 /* Navbar */
 #navbar {
-    background-color: red;
-    box-shadow: 0 10Px 10px #3A3A3A;
+    background-color: white;
+    box-shadow: 0 10Px 10px var(--primary-color);
 }
 
 .logo {
-    width: 60px;
+    width: 100px;
 }
+
 
 /*Hero Image*/
 #hero {
@@ -40,6 +46,7 @@ background: url(../images/llynfi-1.jpg) no-repeat center center/cover;
 /*Footer*/
 footer {
     background-color: orange;
+    padding-top: 20px;
 }
 
 #social-networks {
