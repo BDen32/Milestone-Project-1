@@ -14,7 +14,14 @@
 /*General styles*/
 body {
     font-family: "Catamaran", sans-serif;
-    background-color: lightblue;
+}
+
+/*Hero Image*/
+#hero {
+height: 600px;
+width: 100%;
+background: url(../images/llynfi-1.jpg) no-repeat center center/cover;
+
 }
 
 /*Footer*/
