@@ -1,5 +1,10 @@
-/* Navbar */
+/*Google fonts import*/
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:wght@700&family=Catamaran:wght@100..900&family=Gowun+Dodum&display=swap');
+</style>
 
+
+/* Navbar */
 #navbar {
     background-color: red;
 }
@@ -7,6 +12,12 @@
 #navbar .logo {
     width: 30px;
 }
+
+/*General styles*/
+body {
+    font-family: "Catamaran", sans-serif;
+}
+
 
 /* grid visualisation CSS for testing */
 .container,
