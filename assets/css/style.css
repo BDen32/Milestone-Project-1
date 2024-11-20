@@ -2,18 +2,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Bona+Nova:wght@700&family=Catamaran:wght@100..900&family=Gowun+Dodum&display=swap');
 
 
+/*General styles*/
+body {
+    font-family: "Catamaran", sans-serif;
+}
+
 /* Navbar */
 #navbar {
     background-color: red;
+    box-shadow: 0 6Px 10px #3A3A3A;
 }
 
 #navbar .logo {
     width: 30px;
-}
-
-/*General styles*/
-body {
-    font-family: "Catamaran", sans-serif;
 }
 
 /*Hero Image*/
