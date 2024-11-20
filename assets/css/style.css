@@ -1,7 +1,5 @@
 /*Google fonts import*/
-<style>
 @import url('https://fonts.googleapis.com/css2?family=Bona+Nova:wght@700&family=Catamaran:wght@100..900&family=Gowun+Dodum&display=swap');
-</style>
 
 
 /* Navbar */
@@ -16,8 +14,22 @@
 /*General styles*/
 body {
     font-family: "Catamaran", sans-serif;
+    background-color: lightblue;
 }
 
+/*Footer*/
+footer {
+    background-color: orange;
+}
+
+#social-networks {
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 20px;
+    color: black;
+}
 
 /* grid visualisation CSS for testing */
 .container,
@@ -30,7 +42,3 @@ body {
     background-color: lightgray;
 } */
 
-/*Footer*/
-#social-networks {
-    color: black;
-}
