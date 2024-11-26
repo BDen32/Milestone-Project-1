@@ -59,17 +59,58 @@ color: #260601;
 }
 
 
-/*Contact Us*/
-/* Remove underline from anchor tags */
-a.no-underline {
-    text-decoration: none;
+/* Contact Us Section */
+#contact {
+    padding: 2rem 0;
 }
 
-/* Ensure <p> inside anchor tags doesn't get underlined */
-a.no-underline p {
-    text-decoration: none;
-    color: #260601;
+.card-header {
+    font-size: 2rem;
+    font-weight: bold;
 }
+
+.card-body {
+    padding: 2rem;
+}
+
+.no-underline {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+}
+
+.no-underline i {
+    margin-right: 10px; /* Space between icon and text */
+}
+
+/* Icons */
+#contact i {
+    color: var(--secondary-color);
+    font-size: 1.5rem; /* Adjust icon size */
+}
+
+/* For better column alignment and spacing */
+.row {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem; /* Space between the columns */
+}
+
+.col {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+
+.col span {
+    margin-left: 8px; /* Slight space between icon and text */
+}
+
+
+
+
 /*Footer*/
 footer {
     background-color:var(--quartenary-color);
@@ -85,14 +126,14 @@ footer {
     color: var(--secondary-color);
 }
 
-/* grid visualisation CSS for testing
-.container,
-.row {
-    border: 2px solid black;
+/* Media query for smaller screens (optional) */
+@media (max-width: 768px) {
+    .row {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .col {
+        text-align: center;
+    }
 }
-
-.col-12 {
-    border: 2px solid white;
-    background-color: lightgray;
-} */
-
