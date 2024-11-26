@@ -52,6 +52,17 @@ color: #260601;
     background-color: var(--tertiary-color);
 }
 
+/*Contact Us*/
+/* Remove underline from anchor tags */
+a.no-underline {
+    text-decoration: none;
+}
+
+/* Ensure <p> inside anchor tags doesn't get underlined */
+a.no-underline p {
+    text-decoration: none;
+    color: #260601;
+}
 /*Footer*/
 footer {
     background-color:var(--quartenary-color);
