@@ -1,3 +1,4 @@
+Please help me make the card sections responsive on all screen sizes
 <!DOCTYPE html>
 <html lang="en">
 
@@ -43,13 +44,13 @@
                             <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#about">About Us</a> <!-- Change href to target the About section -->
+                            <a class="nav-link" href="#about">About Us</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#membership">Membership</a>
                         </li>
                         <li class="nav-item"></li>
-                            <a class="nav-link" href="#contact">Contact Us</a>
+                        <a class="nav-link" href="#contact">Contact Us</a>
                         </li>
                     </ul>
                 </div>
@@ -73,50 +74,61 @@
             <div class="card">
                 <h5 class="card-header">About Us</h5>
                 <div class="card-body">
-                    <p class="card-text"> Welcome to the Llynfi Valley Angling Association website.
-                        <br>
-                        Established in 1954, the Llynfi Valley Angling Association has become an important part of the
-                        Maesteg
-                        Community. Following its creation, the Association has prospered and continues to grow, gaining
-                        new
-                        members each year.</p>
-                    <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-secondary" data-bs-toggle="modal"
-                        data-bs-target="#exampleModal">
-                        Sign Up To Our Newsletter
-                    </button>
+                    <p class="card-text"> Established in 1954, the Llynfi Valley Angling Association has become an
+                        important part of the Maesteg Community. Following its creation, the Association has prospered
+                        and continues to grow, gaining
+                        new members each year.</p>
+                    <p>The River Llynfi, otherwise referred to as the Llynfi River or Afon Llynfi in Welsh, is one of
+                        three main tributaries of the River Ogmore or Afon Ogwr.
 
-                    <!-- Modal -->
-                    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
-                        aria-hidden="true">
-                        <div class="modal-dialog">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h1 class="modal-title fs-5" id="exampleModalLabel">Newsletter Sign Up Form</h1>
-                                    <button type="button" class="btn-close" data-bs-dismiss="modal"
-                                        aria-label="Close"></button>
-                                </div>
-                                <div class="modal-body row">
-                                    <div class="col">
-                                        <input type="text" class="form-control" placeholder="First name"
-                                            aria-label="First name">
+                        <p> The Llynfi runs for around 10 miles from its source north of Maesteg and flows generally
+                            southwards through the Llynfi Valley to the confluence with the River Ogmore (Afon Ogwr) and
+                            the River Garw at Aberkenfig (Abercynffig).
+                        </p>
+                        <p> Herons, dippers, wagtails and plenty of fish reside in the clean waters of the Llynfi in
+                            South Wales. </p>
+
+                        <!-- Button trigger modal -->
+                        <button type="button" class="btn btn-secondary" data-bs-toggle="modal"
+                            data-bs-target="#exampleModal">
+                            Sign Up To Our Newsletter
+                        </button>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="exampleModalLabel">Newsletter Sign Up Form</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                     </div>
-                                    <div class="col">
-                                        <input type="text" class="form-control" placeholder="Last name"
-                                            aria-label="Last name">
-                                    </div>
-                                    <div class="col"></div>
-                                    <input type="email" class="form-control" placeholder="Email Address"
-                                        aria-label="Email Address">
-                                </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary"
-                                        data-bs-dismiss="modal">Close</button>
-                                    <button type="button" class="btn btn-primary">Save changes</button>
+                                    <form class="row g-3 p-3">
+                                        <!-- First Name Input -->
+                                        <div class="col-12 col-sm-6 col-md-4">
+                                            <label for="first-name" class="form-label">First Name</label>
+                                            <input type="text" class="form-control" id="first-name" placeholder="Enter your first name">
+                                        </div>
+                        
+                                        <!-- Last Name Input -->
+                                        <div class="col-12 col-sm-6 col-md-4">
+                                            <label for="last-name" class="form-label">Last Name</label>
+                                            <input type="text" class="form-control" id="last-name" placeholder="Enter your last name">
+                                        </div>
+                        
+                                        <!-- Email Input -->
+                                        <div class="col-12 col-sm-6 col-md-4">
+                                            <label for="email" class="form-label">Email</label>
+                                            <input type="email" class="form-control" id="email" placeholder="Enter your email address">
+                                        </div>
+                        
+                                        <!-- Submit Button -->
+                                        <div class="col-12">
+                                            <button type="submit" class="btn btn-primary w-100">Send</button>
+                                        </div>
+                                    </form>
                                 </div>
                             </div>
                         </div>
-                    </div>
                 </div>
             </div>
         </section>
@@ -140,16 +152,14 @@
         <section id="contact">
             <div class="card">
                 <h5 class="card-header">Contact Us</h5>
-                <div class="card-body">
-                    <div class="container px-4 text-center">
-                        <div class="row gx-5">
-                            <div class="p-3">Membership Secretary: Phillip Davies</div>
-                            <div class="col p-3">Phone Number: 07779691619</div>
-                            <div class="col p-3">Email: lvaa1954@outlook.com</div>
-                            </div>
-                        </div>
+                <div class="card-body container px-4 text-center">
+                    <div class="row gx-5">
+                        <div class="p-3">Membership Secretary: Phillip Davies</div>
+                        <div class="col p-3">Phone Number: 07779691619</div>
+                        <div class="col p-3">Email: lvaa1954@outlook.com</div>
                     </div>
                 </div>
+            </div>
         </section>
     </main>
 
