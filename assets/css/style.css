@@ -58,9 +58,7 @@ color: #260601;
 }
 
 /*Membership Section*/
-#membership {
-    padding: 2rem 0;
-}
+
 /* This targets all list items within the prices list */
 .prices .list-group-item {
     background-color: var(--secondary-color); 
