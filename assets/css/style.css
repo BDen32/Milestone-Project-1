@@ -52,7 +52,15 @@ color: #260601;
     background-color: var(--tertiary-color);
 }
 
+/*About section*/
+#about {
+    padding: 2rem 0;
+}
+
 /*Membership Section*/
+#membership {
+    padding: 2rem 0;
+}
 /* This targets all list items within the prices list */
 .prices .list-group-item {
     background-color: var(--secondary-color); 
@@ -87,10 +95,10 @@ color: #260601;
 /* Icons */
 #contact i {
     color: var(--secondary-color);
-    font-size: 1.5rem; /* Adjust icon size */
+    font-size: 2rem;
 }
 
-/* For better column alignment and spacing */
+
 .row {
     display: flex;
     justify-content: center;
@@ -107,8 +115,6 @@ color: #260601;
 .col span {
     margin-left: 8px; /* Slight space between icon and text */
 }
-
-
 
 
 /*Footer*/
