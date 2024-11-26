@@ -51,6 +51,11 @@ color: #260601;
     color:#260601;
     background-color: var(--tertiary-color);
 }
+.card-header {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
 
 /*About section*/
 #about {
@@ -70,14 +75,6 @@ color: #260601;
     padding: 2rem 0;
 }
 
-.card-header {
-    font-size: 2rem;
-    font-weight: bold;
-}
-
-.card-body {
-    padding: 2rem;
-}
 
 .no-underline {
     display: flex;
@@ -88,6 +85,10 @@ color: #260601;
 
 .no-underline i {
     margin-right: 10px; /* Space between icon and text */
+}
+
+.secretary-name {
+    font-size: 1.2rem; 
 }
 
 /* Icons */
