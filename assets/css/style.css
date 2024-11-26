@@ -30,14 +30,14 @@ body {
 
 /*Hero Image*/
 #hero {
-height: 500px;
-width: 100%;
-background-image: url(../images/llynfi-1.jpg) no-repeat center center/cover;
-color: #260601;
-background-color: #3e5916;
-min-height: 500px;
-}
+    height: 500px;
+    width: 100%;
+    background: url(../images/llynfi-1.jpg) no-repeat center center/cover;
+    color: #260601;
+    background-color: #3e5916;
+    }
 
+    
 #cover-text {
     background-color: rgba(168, 191, 132, .7);
     font-size: 150%;
