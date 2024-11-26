@@ -328,9 +328,7 @@ This is the final stage where visual design should be designed with the user in 
 
 The colour scheme for the project was created by uploading an image of the Llynfi River to Adobe Color. Adobe Color extracted the colours from the image to create the colour scheme: 
 
-![Image showing a screenshot of Adobe Color colour scheme](color-scheme-1.png) 
-
- 
+![Image showing a screenshot of Adobe Color colour scheme](/workspace/Milestone-Project-1/assets/images/color-scheme-1.png) 
 
  
 
