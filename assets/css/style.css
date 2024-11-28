@@ -1,5 +1,9 @@
 /*Google fonts import*/
-@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:wght@700&family=Catamaran:wght@100..900&family=Gowun+Dodum&display=swap');
+/* poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;900&display=swap');
+
+/* el messiri */
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@500&display=swap');
 
 /*CSS Variables*/
 :root {
@@ -11,7 +15,7 @@
 
 /*General styles*/
 body {
-    font-family: "Catamaran", sans-serif;
+    font-family: 'El Messiri', sans-serif;
     font-size: 1.2rem;
     line-height: 1.6;
 }
@@ -55,6 +59,8 @@ body {
 .card {
     color:#260601;
     background-color: var(--tertiary-color);
+    font-family: 'Poppins', sans-serif;
+    
 }
 .card-header {
     font-size: 2rem;
