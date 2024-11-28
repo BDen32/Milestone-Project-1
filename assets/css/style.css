@@ -57,7 +57,6 @@ body {
 
 /*Main section*/
 
-
 /**Cards*/
 .card {
     color:#260601;
@@ -66,14 +65,9 @@ body {
     
 }
 .card-header {
+    font-family: 'El Messiri', sans-serif;
     font-size: 2rem;
     font-weight: bold;
-}
-
-
-/*About section*/
-#about {
-    padding: 2rem 0;
 }
 
 /*Membership Section*/
@@ -108,13 +102,11 @@ h3 {
 }
 
 
-
 /* Icons */
 #contact i {
     color: var(--secondary-color);
     font-size: 2rem;
 }
-
 
 .row {
     display: flex;
@@ -159,3 +151,4 @@ footer {
     .col {
         text-align: center;
     }
+

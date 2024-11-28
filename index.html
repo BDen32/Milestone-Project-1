@@ -69,33 +69,36 @@
 
         <!--About Us section-->
         <section id="about">
-            <div class="container py-2">
-                <div class="row container-box col-md-12">
+            <!-- About Us info -->
+            <div class="container py-3">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col">
+                            <div class="text-center">
+                                <h2 class="title mb-3">About Us</h2>
+                                <i class="fa-solid fa-fish fa-3x mb-3 text-primary"></i>
 
-                    <!-- About Us -->
-                    <div class="text-center">
-                        <h2 class="title mb-3">About Us</h2>
-                        <i class="fa-solid fa-fish fa-3x mb-3 text-primary"></i>
-                        <p>Established in 1954, the Llynfi Valley Angling Association has become an
-                            important part of the Maesteg Community. Following its creation, the Association has
-                            prospered and continues to grow, gaining new members each year.</p>
+                                <p>Established in 1954, the Llynfi Valley Angling Association has become an
+                                    important part of the Maesteg Community. Following its creation, the Association has
+                                    prospered and continues to grow, gaining new members each year.</p>
+                            </div>
+                        </div>
+
+                        <!--Fish Image -->
+                        <div class="col d-flex">
+                            <figure>
+                                <img src="assets/images/fish-1.jpg" alt="Trout and fishing rod"
+                                    class="fish-img img-fluid rounded shadow-sm">
+                            </figure>
+                        </div>
                     </div>
-                </div>
-
-                <!-- Image -->
-                <div class="col-md-12 d-flex">
-                    <figure>
-                        <img src="assets/images/fish-1.jpg" alt="Trout and fishing rod"
-                            class="img-fluid rounded shadow-sm">
-                    </figure>
                 </div>
             </div>
 
+            <!--The River-->
             <div class="container py-2">
-
-                <!--The River-->
                 <div class="container">
-                    <div class="row align-items-center">
+                    <div id="river-text" class="row align-items-center">
                         <div class="col">
                             <div class="text-center">
                                 <h2 class="title mb-3">The River</h2>
@@ -110,10 +113,10 @@
                         </div>
 
                         <!--River Image -->
-                        <div class="col d-flex">
+                        <div id="river-image" class="col d-flex">
                             <figure>
                                 <img src="assets/images/llynfi-2.jpg" alt="Natural dam in the Llynfi"
-                                    class="img-fluid rounded shadow-sm">
+                                    class="river-img img-fluid rounded shadow-sm">
                             </figure>
                         </div>
                     </div>
@@ -122,45 +125,47 @@
         </section>
 
         <!--Membership section-->
-        <section id="membership">
-            <div class="card card text-center">
-                <header>
-                    <h2 class="card-header">Membership</h2>
-                </header>
-                <div class="card-body">
-                    <p class="card-text">The LVAA 2025 season begins on March 3rd until September 30th. (No spinning
-                        until July 1st).</p>
-                    <ul class="prices list-group list-group-flush">
-                        <li class="list-group-item">Adult Membership - £50</li>
-                        <li class="list-group-item">OAP Membership - £30</li>
-                        <li class="list-group-item">Junior Membership - £5</li>
-                    </ul>
+        <section id="member-contact-cards">
+            <div class="container">
+                <div id="membership" class="row card card text-center mb-4 py-3">
+                    <header>
+                        <h2 class="card-header">Membership</h2>
+                    </header>
+                    <div class="card-body">
+                        <p class="card-text">The LVAA 2025 season begins on March 3rd until September 30th. (No spinning
+                            until July 1st).</p>
+                        <ul class="prices list-group list-group-flush">
+                            <li class="list-group-item">Adult Membership - £50</li>
+                            <li class="list-group-item">OAP Membership - £30</li>
+                            <li class="list-group-item">Junior Membership - £5</li>
+                        </ul>
+                    </div>
                 </div>
-            </div>
-            </div>
-        </section>
 
-        <!--Contact Us section-->
-        <section id="contact">
-            <div class="card card text-center">
-                <header>
-                    <h2 class="card-header">Contact Us</h2>
-                </header>
-                <div class="card-body container px-4 text-center">
-                    <h3>Please feel free to get in touch!</h3>
-                    <div class="row gx-5">
-                        <div class="p-3">Membership Secretary: Phillip Davies</div>
-                        <!-- Email Link -->
-                        <a class="col p-3 no-underline" href="mailto:lvaa1954@outlook.com">
-                            <i class="fa-solid fa-envelope"></i>
-                            <span>Email: lvaa1954@outlook.com</span>
-                        </a>
 
-                        <!-- Phone Link -->
-                        <a class="col p-3 no-underline" href="tel:+447779691619">
-                            <i class="fa-solid fa-phone"></i>
-                            <span>Phone: 07779691619</span>
-                        </a>
+
+                <!--Contact Us section-->
+
+                <div id="contact" class="row card card text-center mb-3 py-3">
+                    <header>
+                        <h2 class="card-header">Contact Us</h2>
+                    </header>
+                    <div class="card-body container px-4 text-center">
+                        <h3>Please feel free to get in touch!</h3>
+                        <div class="row gx-5">
+                            <div class="p-3">Membership Secretary: Phillip Davies</div>
+                            <!-- Email Link -->
+                            <a class="col p-3 no-underline" href="mailto:lvaa1954@outlook.com">
+                                <i class="fa-solid fa-envelope"></i>
+                                <span>Email: lvaa1954@outlook.com</span>
+                            </a>
+
+                            <!-- Phone Link -->
+                            <a class="col p-3 no-underline" href="tel:+447779691619">
+                                <i class="fa-solid fa-phone"></i>
+                                <span>Phone: 07779691619</span>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
