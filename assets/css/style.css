@@ -56,6 +56,14 @@ body {
 }
 
 /*Main section*/
+/*Icons*/
+.fa-fish {
+    color: var(--tertiary-color);
+}
+
+.fa-water {
+    color: var(--secondary-color);
+}
 
 /**Cards*/
 .card {
