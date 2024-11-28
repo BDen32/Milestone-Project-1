@@ -56,6 +56,9 @@ body {
 }
 
 /*Main section*/
+
+
+/**Cards*/
 .card {
     color:#260601;
     background-color: var(--tertiary-color);
