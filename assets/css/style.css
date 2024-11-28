@@ -9,6 +9,7 @@
     --secondary-color: #BDD9F2; /*light blue*/
     --tertiary-color: #bfa29b; /*beige*/
     --quartenary-color: #3e5916; /*dark green*/
+    --fifth-color:#260601; /*dark brown*/
 }
 
 /*General styles*/
@@ -16,6 +17,7 @@ body {
     font-family: 'El Messiri', sans-serif;
     font-size: 1.2rem;
     line-height: 1.6;
+    color: var(--fifth-color);
 }
 
 /* Navbar */
@@ -35,7 +37,7 @@ body {
     height: 500px;
     width: 100%;
     background: url(../images/llynfi-1.jpg) no-repeat center center/cover;
-    color: #260601;
+    color: var(--fifth-color);
     background-color: #3e5916;
     box-shadow: 0 10px 10px var(--primary-color);
     }
@@ -66,7 +68,7 @@ body {
 
 /**Cards*/
 .card {
-    color:#260601;
+    color: var(--fifth-color);
     background-color: var(--tertiary-color)
     
 }
@@ -115,13 +117,11 @@ h3 {
 }
 
 .row {
-    display: flex;
     justify-content: center;
     gap: 1.5rem;
 }
 
 .col {
-    display: flex;
     align-items: center;
     justify-content: center;
 }
@@ -152,10 +152,6 @@ footer {
     .row {
         flex-direction: column;
         align-items: center;
-    }
-
-    .col {
-        text-align: center;
     }
 }
 
