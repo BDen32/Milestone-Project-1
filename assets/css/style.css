@@ -1,6 +1,4 @@
 /*Google fonts import*/
-/* poppins */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;900&display=swap');
 
 /* el messiri */
 @import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@500&display=swap');
@@ -39,6 +37,7 @@ body {
     background: url(../images/llynfi-1.jpg) no-repeat center center/cover;
     color: #260601;
     background-color: #3e5916;
+    box-shadow: 0 10px 10px var(--primary-color);
     }
 
     
@@ -68,8 +67,7 @@ body {
 /**Cards*/
 .card {
     color:#260601;
-    background-color: var(--tertiary-color);
-    font-family: 'Poppins', sans-serif;
+    background-color: var(--tertiary-color)
     
 }
 .card-header {
@@ -159,4 +157,5 @@ footer {
     .col {
         text-align: center;
     }
+}
 
