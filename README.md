@@ -1,5 +1,6 @@
 # Llynfi Valley Angling Association   
 
+![Image showing the sit on various screens](assets/images/responsive.png)
 
 ## Contents  
 
