@@ -204,13 +204,7 @@ To deploy the project you must:
 
  **The pages can take a few minutes to refresh after changes have been made**
 
- 
-
- 
-
- 
-
-## Credits 
+ ## Credits 
 
 ### README.md
  * README.md structure adapted from examples shared on Slack by Lewis Dillon, Cohort Facilitator.
