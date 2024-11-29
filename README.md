@@ -99,43 +99,15 @@ The strategy plane of UX design is the initial phase where decisions about what 
 > - Health and wellbeing
 >
 > #### The website needs to allow users to: 
->  *Everything* is going according to **plan**.
-
-
-The website needs to allow users to:   
-
- 
-
-View information about the club and what it offers   
-
- 
-
-Contact the club if needed   
-
- 
-
-See photos of members, fish, the environment    
-
- 
-
-Sign up to a newsletter   
-
- 
-
-The website needs to allow the club:   
-
- 
-
-Attract and retain members   
-
- 
-
-Receive inquiries from site visitors   
-
- 
-
-Allow interested parties to receive the newsletter.   
-
+> - View information about the club including membership details
+> - Contact the club if needed  
+> - See photos of members, fish, the environment
+> - Sign up to a newsletter 
+>
+> #### The website needs to allow the club:
+> - Attract new members  
+> - Receive inquiries from site visitors 
+> - Allow interested parties to receive the newsletter.
  
 
 ### Scope   
