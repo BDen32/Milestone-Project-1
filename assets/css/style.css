@@ -175,8 +175,10 @@ footer {
     }
 }
 
-@media and (min-width: 768px) {
-    .row {
-        flex-direction: row;
+/*Media query for large or landscape phones*/
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
     }
 }
