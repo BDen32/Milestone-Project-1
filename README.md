@@ -193,11 +193,16 @@ The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator Ser
 
 ### Browser Compatibilty
 
+The deployed site has been across a number of browsers. 
+The site's appearance is excellent on all browsers. Responsiveness could be improved on browser for laptops and larger screens.
+Firefox cannot be tested as no access to Apple devices.
+
 | Browser Tested | Intended Appearance | Intended Responsiveness |
 | -----------    | -----------         | -----------             |
 | Chrome         | Excellent           | Good                    |
-| Edge           | Excellent           | Bad                     |
-| Firefox        | Fair                | Good                    |
+| Edge           | Excellent           | Good                    |
+| Mobile         | Excellent           | Excellent               |
+
 
 ## User Stories Met 
 
