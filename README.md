@@ -212,8 +212,15 @@ To deploy the project you must:
 
 ## Credits 
 
-### Images and content
- * All images, including the logo, that ahve been used have been provided by the Llynfi Valley Angling Association.
+### README.md
+ * README.md structure adapted from examples shared on Slack by Lewis Dillon, Cohort Facilitator.
+ * Instructions on deployment were adapted from the Code Institue coursework
+
+### Images and content:
+ * All images, including the logo, that have been used have been provided by the Llynfi Valley Angling Association.
  * The icons used throughout the website were taken from [Font Awesome](https://fontawesome.com/)
  * The fonts were taken from [Google Fonts](https://fonts.google.com/)
 
+
+### Code:
+ * Various coder forums were used when I had issues with specific aspects of the code. [W3Schools](https://www.w3schools.com/) was particularly helpful and provided walkthroughs. [ChatGPT](chatgpt.com) was also used when forums or other websites did not help me to solve issues I came across.
