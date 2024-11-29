@@ -71,10 +71,18 @@ body {
     color: var(--secondary-color);
 }
 
+/*Line Break*/
+
+hr {
+    border: 5px solid var(--secondary-color);
+    border-radius: 8px;
+  }
+
 /**Cards*/
 .card {
     color: var(--fifth-color);
-    background-color: var(--tertiary-color)
+    background-color: var(--tertiary-color);
+    box-shadow: 1px 5px 20px 5px var(--fifth-color);
 }
 
 .card-header {
@@ -97,8 +105,9 @@ body {
 }
 
 h3 {
-    font-size: 1.4rem;
-    margin-bottom: 20px;
+    font-size: 1.5rem;
+    margin-top: 10px;
+    margin-bottom: 15px;
     font-weight: 700;
     text-align: center;
     color: var(--primary-color);
