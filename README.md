@@ -176,18 +176,20 @@ Modal section – Found it difficult to get the correct responsiveness for the m
 ## Testing 
 
 ### Bugs
- - The modal layout was incorrect and jumbled - used Bootstrap to align correctly
- - The form did not have a submit button -  added following testing
+ - Navbar links did not work from Gallery page - now they go to each page/section correctly
+ - The modal form layout was incorrect and was not responsive - used Bootstrap to align correctly and reposnd to screen sizes.
+ - The form did not have a submit button - added following testing.
  ![Image showing the form without a submit button](assets/images/form-no-button.png)
- - navbar links did not work from Gallery page - now they go to each page/section correctly
 
 ### Accessibility  
-Lighthouse
- 
+The Lighthouse tool, part of Google Chrome DevTools. The site is ranked at 100 for accessibilty on mobile and desktop.
+#### Mobile:
+![Image showing the Lighthouse tool and accessibilty ranked at 100 for mobile](assets/images/accessibility-mobile-1.png)
+
+#### Desktop:
+![Image showing the Lighthouse tool and accessibilty ranked at 100 for desktop](assets/images/accessibility-desktop-1.png)
 
 ## User Stories Met 
-
- 
 
 ## Deployment 
 
