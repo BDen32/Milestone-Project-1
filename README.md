@@ -139,7 +139,7 @@ This is the final stage where visual design should be designed with the user in 
 
 #### Colour Scheme:   
 
-The colour scheme for the project was created by uploading an image of the Llynfi River to Adobe Color. Adobe Color extracted the colours from the image to create the colour scheme: 
+The colour scheme for the project was created by uploading an image of the Llynfi River to [Adobe Color](https://color.adobe.com/create/color-wheel). Adobe Color extracted the colours from the image to create the colour scheme: 
 
 ![Image showing a screenshot of Adobe Color colour scheme](assets/images/color-scheme-1.PNG)
 
@@ -220,7 +220,6 @@ To deploy the project you must:
  * All images, including the logo, that have been used have been provided by the Llynfi Valley Angling Association.
  * The icons used throughout the website were taken from [Font Awesome](https://fontawesome.com/)
  * The fonts were taken from [Google Fonts](https://fonts.google.com/)
-
 
 ### Code:
  * Various coder forums were used when I had issues with specific aspects of the code. [W3Schools](https://www.w3schools.com/) was particularly helpful and provided walkthroughs. [ChatGPT](chatgpt.com) was also used when forums or other websites did not help me to solve issues I came across.
