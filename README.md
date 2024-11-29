@@ -371,23 +371,23 @@ Modal section – Found it difficult to get the correct responsiveness for the m
 
 ## Deployment 
 
-The website development was created in the "main" branch. This branch was deployed using GitHub Pages. 
+The website was developed using Gitpod and was created in the "main" branch of GitHub. This branch was deployed using GitHub Pages. 
 
-This site was deployed by completing the following steps: 
+To deploy the project you must:
 
-Open GitHub. 
-
-Click on the project to be deployed. 
-
-Navigate to the "Settings". 
-
-Navigate down to the "GitHub Pages". 
-
-Click on "Check it out here!". 
-
-Select the "main" branch and select "Save". 
-
-The link to the live website was ready on the top. 
+1. Open GitHub. 
+2. Click on the project that is to be deployed from the available repositories.
+3. Find the "Settings" tab and click to go to "Settings" page.
+4. On the left-hand sidebar, in the "Code and automation" section, select "Pages".
+5. Under the "Build and deployment" section, make sure:
+    * Source is set to 'Deploy from Branch'.
+    * Under Branch that main branch is selected.
+    * Folder is set to / (root).
+6. Select "save".
+7. Go back to the "Code" tab.
+8. On the right-hand side, in the "Deployments" section, click on 'github-pages'.
+9. A new tab will open, here you can click on your live site! 
+ **The pages can take a few minutes to refresh after changes have been made**
 
  
 
