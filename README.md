@@ -69,33 +69,33 @@ As a **potential new member**, I want to:
 The strategy plane of UX design is the initial phase where decisions about what objectives the product should be designed to meet must be decided. This means looking at user needs, as well product/service objectives. This website’s target audience was broken down into three categories:   
 
 
- ### Roles:
+### Roles:
  - New User
 
- #### Demographic:
+#### Demographic:
  - Adults 16+
  - Young People
  - South Wales
  - Likely more males than females
 
- ### Psychographic:
- #### Lifestyle: 
+### Psychographic:
+#### Lifestyle: 
  - Enjoy outdoor activity
 
- #### Values:
+#### Values:
  - Learning new skills  
  - Spending time outdoors  
  - Spending time with family
  - Teaching children new hobbies
  - Health and wellbeing
 
- #### The website needs to allow users to: 
+#### The website needs to allow users to: 
  - View information about the club including membership prices
  - Contact the club if needed  
  - See photos of members, fish, the environment
  - Sign up to a newsletter 
 
- #### The website needs to allow the club:
+#### The website needs to allow the club:
  - Attract new members  
  - Receive inquiries from site visitors 
 - Allow interested parties to receive the newsletter.
@@ -190,6 +190,14 @@ The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator Ser
 
 #### Desktop:
 ![Image showing the Lighthouse tool and accessibilty ranked at 100 for desktop](assets/images/accessibility-desktop-1.png)
+
+### Browser Compatibilty
+
+| Browser Tested | Intended Appearance | Intended Responsiveness |
+| -----------    | -----------         | -----------             |
+| Chrome         | Excellent           | Good                    |
+| Edge           | Excellent           | Bad                     |
+| Firefox        | Fair                | Good                    |
 
 ## User Stories Met 
 
