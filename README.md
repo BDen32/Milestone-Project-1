@@ -212,3 +212,8 @@ To deploy the project you must:
 
 ## Credits 
 
+### Images and content
+ * All images, including the logo, that ahve been used have been provided by the Llynfi Valley Angling Association.
+ * The icons used throughout the website were taken from [Font Awesome](https://fontawesome.com/)
+ * The fonts were taken from [Google Fonts](https://fonts.google.com/)
+
