@@ -177,7 +177,8 @@ Modal section – Found it difficult to get the correct responsiveness for the m
 
 ### Bugs
  - The modal layout was incorrect and jumbled - used Bootstrap to align correctly
- - The form did not have a submit button - added following testing
+ - The form did not have a submit button -  added following testing
+ ![Image showing the form without a submit button](assets/images/form-no-button.png)
  - navbar links did not work from Gallery page - now they go to each page/section correctly
 
 ### Accessibility  
