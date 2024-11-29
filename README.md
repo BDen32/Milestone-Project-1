@@ -99,7 +99,7 @@ The strategy plane of UX design is the initial phase where decisions about what 
 > - Health and wellbeing
 >
 > #### The website needs to allow users to: 
-> - View information about the club including membership details
+> - View information about the club including membership prices
 > - Contact the club if needed  
 > - See photos of members, fish, the environment
 > - Sign up to a newsletter 
@@ -112,47 +112,24 @@ The strategy plane of UX design is the initial phase where decisions about what 
 
 ### Scope   
 
- 
-
 Within the scope plane, the strategy is transformed into the project specifics, including requirements, defining the characteristics of the product or service and any other value-adding information to be displayed on the website or app.    
 
+#### Content Requirements:   
+
+ * Home page
+ * Contact info   
+ * Photos/Gallery
+ * Membership price details   
+ * Newsletter sign up   
+
+#### Functionality Requirements:   
+
+The user will be able to:
  
-
-Content Requirements:   
-
- 
-
-Contact info   
-
- 
-
-Photos   
-
- 
-
-Newsletter sign up   
-
- 
-
-Functionality Requirements:   
-
- 
-
-The user will be able to:   
-
- 
-
-Navigate through the site to find the information they need   
-
- 
-
-Sign up to the newsletter   
-
- 
-
-View photos    
-
- 
+ * Navigate easily through the site to find the information they need  
+ * Sign up to the newsletter 
+ * View photos
+ * Link to social media sites 
 
 ### Structure   
 
@@ -168,15 +145,13 @@ At this level, the exact structure is finalised, including where the interface e
 
 This is the final stage where visual design should be designed with the user in mind. The information should be presented appropriately and accessibility should be considered.   
 
- 
-
-### Colour Scheme:   
+#### Colour Scheme:   
 
 The colour scheme for the project was created by uploading an image of the Llynfi River to Adobe Color. Adobe Color extracted the colours from the image to create the colour scheme: 
 
 ![Image showing a screenshot of Adobe Color colour scheme](assets/images/color-scheme-1.PNG)
 
-### Typography:  
+####  Typography:  
 
 The font chosen was imported from [Google Fonts](https://fonts.google.com/). 
 
