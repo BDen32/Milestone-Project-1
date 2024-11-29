@@ -22,14 +22,6 @@
     * [Surface](#Surface)  
 
 3. [Features](#Features)  
-    * [Header and navigation](#Header_and_navigation)
-        
-    * [Homepage](#Home_page)
-         * [Hero Image](#Hero_Image)
-         * [About Us](#About_Us)
-         * [Card](#Cards)
- 
-    * [Footer](#Footer)
 
 4. [Validation](#Validation)  
 
