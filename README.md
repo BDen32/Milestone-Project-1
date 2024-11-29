@@ -44,7 +44,13 @@
 
 3. [Features](#Features)  
     * [Header and navigation](#Header_and_navigation)
+        
     * [Homepage](#Home_page)
+         * [Hero Image](#Hero_Image)
+         * [About Us](#About_Us)
+         * [Card](#Cards)
+
+    
     * [Footer](#Footer)
 
  
@@ -325,7 +331,7 @@ This is the final stage where visual design should be designed with the user in 
 
 The colour scheme for the project was created by uploading an image of the Llynfi River to Adobe Color. Adobe Color extracted the colours from the image to create the colour scheme: 
 
-![Image showing a screenshot of Adobe Color colour scheme](assets/images/color-scheme-1.png)
+![Image showing a screenshot of Adobe Color colour scheme](assets/images/color-scheme-1.PNG)
 
 Typography:  
 
@@ -334,6 +340,12 @@ Typography:
 ### Header and navigation 
 
 ### Home page 
+
+#### Hero Image
+
+#### About Us
+
+#### Cards
 
 ### Footer 
 
