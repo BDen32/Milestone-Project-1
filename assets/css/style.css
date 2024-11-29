@@ -167,8 +167,9 @@ footer {
     color: var(--secondary-color);
 }
 
-/* Media query for smaller screens (optional) */
-@media (max-width: 768px) {
+/* Media query for smaller screens */
+@media screen and (max-width: 576px) {
+    /*Arrange about section in rows on small screens*/
     .row {
         flex-direction: column;
         align-items: center;
@@ -179,6 +180,22 @@ footer {
 @media screen and (min-width: 576px) {
     #photos {
         column-count: 2;
+        column-gap: 0;
+    }
+}
+
+/*Media query for tablets or larger*/
+@media screen and (min-width: 900px) {
+    #photos {
+        column-count: 3;
+        column-gap: 0;
+    }
+}
+
+/*Media query for laptops*/
+@media screen and (min-width: 992px) {
+    #photos {
+        column-count: 4;
         column-gap: 0;
     }
 }
