@@ -22,18 +22,18 @@
     * [Surface](#Surface)  
 
 3. [Features](#Features)  
+  
 
-4. [Validation](#Validation)  
-
-5. [Testing](#Testing)  
+4. [Testing](#Testing)  
 
     * [Accessibility](#Accessibility)
+    * [Validation](#Validation) 
 
-6. [User Stories Met](#user-stories-met)
+5. [User Stories Met](#user-stories-met)
 
-7. [Deployment](#Deployment)
+6. [Deployment](#Deployment)
 
-8. [Credits](#Credits)
+7. [Credits](#Credits)
 
 
 ## Introduction:   
@@ -167,9 +167,6 @@ Modal section – Found it difficult to get the correct responsiveness for the m
 
  
 
-## Validation 
-
- 
 
  
 
@@ -183,6 +180,11 @@ Modal section – Found it difficult to get the correct responsiveness for the m
 
 ### Accessibility  
 The Lighthouse tool, part of Google Chrome DevTools. The site is ranked at 100 for accessibilty on mobile and desktop.
+
+### Validation 
+ 
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
 #### Mobile:
 ![Image showing the Lighthouse tool and accessibilty ranked at 100 for mobile](assets/images/accessibility-mobile-1.png)
 
