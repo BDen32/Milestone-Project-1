@@ -42,15 +42,26 @@
 
  
 
-3. [](#)  
+3. [Features](#Features)  
+    * [Header and navigation](#Header_and_navigation)
+    * [Homepage](#Home_page)
+    * [Footer](#Footer)
 
  
 
-4. [](#)  
+4. [Validation](#Validation)  
 
  
 
-5. [](#)  
+5. [Testing](#Testing)  
+
+    * [Accessibility](#Accessibility)
+
+6. [User Stories Met](#user-stories-met)
+
+7. [Deployment](#Deployment)
+
+8. [Credits](#Credits)
 
  
 
@@ -317,3 +328,60 @@ The colour scheme for the project was created by uploading an image of the Llynf
 ![Image showing a screenshot of Adobe Color colour scheme](assets/images/color-scheme-1.png)
 
 Typography:  
+
+## Features 
+
+### Header and navigation 
+
+### Home page 
+
+### Footer 
+
+Modal section – Found it difficult to get the correct responsiveness for the modal itself. Was able to change the form but it was then too large for the modal area. Used ChatGPT to help improve the responsiveness. 
+
+ 
+
+## Validation 
+
+ 
+
+ 
+
+## Testing 
+
+### Accessibility  
+
+ 
+
+## User Stories Met 
+
+ 
+
+## Deployment 
+
+The website development was created in the "main" branch. This branch was deployed using GitHub Pages. 
+
+This site was deployed by completing the following steps: 
+
+Open GitHub. 
+
+Click on the project to be deployed. 
+
+Navigate to the "Settings". 
+
+Navigate down to the "GitHub Pages". 
+
+Click on "Check it out here!". 
+
+Select the "main" branch and select "Save". 
+
+The link to the live website was ready on the top. 
+
+ 
+
+ 
+
+ 
+
+## Credits 
+
