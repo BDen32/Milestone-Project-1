@@ -175,8 +175,13 @@ Modal section – Found it difficult to get the correct responsiveness for the m
 
 ## Testing 
 
-### Accessibility  
+### Bugs
+ - The modal layout was incorrect and jumbled - used Bootstrap to align correctly
+ - The form did not have a submit button - added following testing
+ - navbar links did not work from Gallery page - now they go to each page/section correctly
 
+### Accessibility  
+Lighthouse
  
 
 ## User Stories Met 
@@ -204,7 +209,7 @@ To deploy the project you must:
 
  **The pages can take a few minutes to refresh after changes have been made**
 
- ## Credits 
+## Credits 
 
 ### README.md
  * README.md structure adapted from examples shared on Slack by Lewis Dillon, Cohort Facilitator.
