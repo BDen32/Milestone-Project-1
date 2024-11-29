@@ -94,39 +94,25 @@ As a **potential new member**, I want to:
 
  
 
- ⦁  Be able to easily navigate throughout the site   
+ ⦁  Be able to easily navigate throughout the site to access the information I want.
 
  
 
- ⦁  Find relevant content about the club including health and wellbeing benefits   
+ ⦁  Find relevant content about the club including membership prices to inform my choices.
 
  
 
- ⦁  Be able to easily contact the club for more information.   
+ ⦁  Be able to easily contact the club to be able to find out more information.   
 
  
 
- ⦁  Sign up to a newsletter   
+ ⦁  Sign up to a newsletter to get regular updates about the club.
 
  
 
- ⦁  See photos of fish, the river, environment etc   
+ ⦁  See photos of fish, the river, environment etc to help me decide if I want to join.
 
-  
-
- 
-
-As **returning member**, I want:   
-
- 
-
- ⦁  Be able to share photos of catches   
-
- 
-
- ⦁  Be able to check river safety information   
-
- 
+   
 
 ### Strategy   
 
@@ -328,8 +314,6 @@ This is the final stage where visual design should be designed with the user in 
 
 The colour scheme for the project was created by uploading an image of the Llynfi River to Adobe Color. Adobe Color extracted the colours from the image to create the colour scheme: 
 
-![Image showing a screenshot of Adobe Color colour scheme](/workspace/Milestone-Project-1/assets/images/color-scheme-1.png) 
-
- 
+![Image showing a screenshot of Adobe Color colour scheme](assets/images/color-scheme-1.png)
 
 Typography:  
