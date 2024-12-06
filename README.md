@@ -30,6 +30,12 @@ Once all the code had been written, GitPages was then used to deploy the website
     * [Surface](#Surface)  
 
 3. [Features](#Features)  
+
+    * [All Page Features](#All-Page-Features)
+
+    * [Home Page](#Home-Page)
+
+    * [Gallery](#Gallery)
   
 4. [Testing](#Testing)  
 
