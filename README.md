@@ -151,7 +151,7 @@ El Messiri was chosen as it is similar tothe font in the logo. Initially two fon
 
 ## Features 
 
-#### Header and navigation 
+### Header and navigation 
 
 Each page has a Header and Navigation bar section which sit at the top of each page. The navigation bar consists of links to the *Home* page, *About* section, *Membership* section, *Contact Us* section, which are all on the home page, and to a seperate *Gallery* page.
 
@@ -163,7 +163,7 @@ The navigation bar is responsive on smaller screens and the links are replaced b
 
 ![Image showing the responsive navigation on the LVAA page](assets/images/header-burger.png)
 
-#### Footer 
+### Footer 
 
 The footer sits at the bottom of each page. This contains links to LVAA's social media pages. Currently, the LVAA only have a Facebook page, but the other links go to the Instagram and Youtube home pages. Each icon opens in a new tab when clicked.
 
@@ -171,7 +171,7 @@ The footer sits at the bottom of each page. This contains links to LVAA's social
 
 The footer is simplistic but effective. The simplistic choice allows the footer design to be changed in the future if needed.
 
-#### Hero Image
+### Hero Image
 
 The hero image was chosen as it is an attention-grabbing, attractive image of the Llynfi River. It is featured on every page.
 
@@ -181,9 +181,9 @@ The hero image includes the cover text 'Llynfi Valley Angling Association'.
 
 ![Image showing the navigation with hero image below it on the LVAA page](assets/images/header.png)
 
-#### Home Page
+### Home Page
 
-#### About Us
+### About Us
 
 On the *Home* page, under the Hero Image, is the *About Us* section. This section contains the *About Us* information for the LVAA and information about *The River* itself.
 
@@ -193,7 +193,7 @@ This section is responsive to various screen sizes. On smaller screens it is set
 
 ![Image showing the The River on a smaller screen](assets/images/river-small.png)
 
-#### Sign Up Button
+### Sign Up Button
 
 The *About Us* section contains the sign up to the newsletter button.
 
@@ -205,7 +205,7 @@ When clicked, a modal pop up opens which contains a form to input first name, la
 
 When submitted, the form takes the user to the *Thank You* page.
 
-#### Cards
+### Cards
 
 Underneath the *About Us* section, there are two cards which contain the contact and membership information.
 
@@ -215,6 +215,14 @@ The cards are seperate sections which are linked to the navigation bar.
 
 The cards are styled using Bootstrap and CSS for box shadow and to match the colour scheme. 
 
+### Gallery
+
+This is a seperate page that contains a variety of images of fish, the river and club members.
+
+The page is responsive on various screen sizes.
+
+![Image showing the gallery page on a medium screen](assets/images/gallery.png)
+
 ## Testing 
 
 ### Bugs
@@ -222,7 +230,7 @@ The cards are styled using Bootstrap and CSS for box shadow and to match the col
  - The modal form layout was incorrect and was not responsive - used Bootstrap to align correctly and respond to screen sizes.
  - The form did not have a submit button - added following testing.
  ![Image showing the form without a submit button](assets/images/form-no-button.png)
- - The Thank you and 404 pages did not have any writing on them. So updated to include appropriate messages.
+ - The *Thank You* and *404* pages did not have any writing on them. So updated to include appropriate messages.
 
 ### Accessibility  
 
@@ -253,6 +261,26 @@ Firefox cannot be tested as no access to Apple devices.
 
 
 ## User Stories Met 
+
+This section looks back at the orignal User Stories that were established during the strategy phase of the project. 
+Ideally, the User stories will be met by through the design of the site.
+
+As a potential new member, I want to:
+
+⦁ Be able to easily navigate throughout the site to access the information I want.
+**The site contains a navigation bar, that links to all the pages and sections of the site**
+
+⦁ Find relevant content about the club including membership prices to inform my choices.
+**Relevant pages and sections, including a membership section have been included on the site**
+
+⦁ Be able to easily contact the club to be able to find out more information.
+**A contact us section with clickable links to the email and telephone are available**
+
+⦁ Sign up to a newsletter to get regular updates about the club.
+**A form that allows the user to add name and email is available**
+
+⦁ See photos of fish, the river, environment etc to help me decide if I want to join.
+**The site contains a responsive Gallery page with a variety of images**
 
 ## Deployment 
 
