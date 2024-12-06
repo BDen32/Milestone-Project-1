@@ -151,7 +151,9 @@ El Messiri was chosen as it is similar tothe font in the logo. Initially two fon
 
 ## Features 
 
-### Header and navigation 
+### All Page Features
+
+#### Header and navigation 
 
 Each page has a Header and Navigation bar section which sit at the top of each page. The navigation bar consists of links to the *Home* page, *About* section, *Membership* section, *Contact Us* section, which are all on the home page, and to a seperate *Gallery* page.
 
@@ -163,7 +165,7 @@ The navigation bar is responsive on smaller screens and the links are replaced b
 
 ![Image showing the responsive navigation on the LVAA page](assets/images/header-burger.png)
 
-### Footer 
+#### Footer 
 
 The footer sits at the bottom of each page. This contains links to LVAA's social media pages. Currently, the LVAA only have a Facebook page, but the other links go to the Instagram and Youtube home pages. Each icon opens in a new tab when clicked.
 
@@ -171,7 +173,7 @@ The footer sits at the bottom of each page. This contains links to LVAA's social
 
 The footer is simplistic but effective. The simplistic choice allows the footer design to be changed in the future if needed.
 
-### Hero Image
+#### Hero Image
 
 The hero image was chosen as it is an attention-grabbing, attractive image of the Llynfi River. It is featured on every page.
 
@@ -183,7 +185,7 @@ The hero image includes the cover text 'Llynfi Valley Angling Association'.
 
 ### Home Page
 
-### About Us
+#### About Us
 
 On the *Home* page, under the Hero Image, is the *About Us* section. This section contains the *About Us* information for the LVAA and information about *The River* itself.
 
@@ -193,7 +195,7 @@ This section is responsive to various screen sizes. On smaller screens it is set
 
 ![Image showing the The River on a smaller screen](assets/images/river-small.png)
 
-### Sign Up Button
+#### Sign Up Button
 
 The *About Us* section contains the sign up to the newsletter button.
 
@@ -205,7 +207,7 @@ When clicked, a modal pop up opens which contains a form to input first name, la
 
 When submitted, the form takes the user to the *Thank You* page.
 
-### Cards
+#### Cards
 
 Underneath the *About Us* section, there are two cards which contain the contact and membership information.
 
