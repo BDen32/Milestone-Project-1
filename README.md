@@ -200,26 +200,26 @@ The *About Us* section contains the sign up to the newsletter button.
 ![Image showing the newsletter sign up button](assets/images/button.png)
 
 When clicked, a modal pop up opens which contains a form to input first name, last name and email address. The form is responsive to screen size. It also will not let the information eb submitted if there are any empty areas or if the email is not correct.
+
 ![Image showing the newsletter sign up modal form](assets/images/modal.png)
 
 When submitted, the form takes the user to the *Thank You* page.
 
 #### Cards
 
+Underneath the *About Us* section, there are two cards which contain the contact and membership information.
 
+The cards are seperate sections which are linked to the navigation bar.
 
-Modal section – Found it difficult to get the correct responsiveness for the modal itself. Was able to change the form but it was then too large for the modal area. Used ChatGPT to help improve the responsiveness. 
+![Image showing cards on the LVAA page](assets/images/cards.png)
 
- 
-
-
- 
+The cards are styled using Bootstrap and CSS for box shadow and to match the colour scheme. 
 
 ## Testing 
 
 ### Bugs
  - Navbar links did not work from Gallery page - now they go to each page/section correctly
- - The modal form layout was incorrect and was not responsive - used Bootstrap to align correctly and reposnd to screen sizes.
+ - The modal form layout was incorrect and was not responsive - used Bootstrap to align correctly and respond to screen sizes.
  - The form did not have a submit button - added following testing.
  ![Image showing the form without a submit button](assets/images/form-no-button.png)
  - The Thank you and 404 pages did not have any writing on them. So updated to include appropriate messages.
