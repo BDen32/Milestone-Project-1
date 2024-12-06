@@ -155,9 +155,13 @@ El Messiri was chosen as it is similar tothe font in the logo. Initially two fon
 
 Each page has a Header and Navigation bar section which sit at the top of each page. The navigation bar consists of links to the *Home* page, *About* section, *Membership* section, *Contact Us* section, which are all on the home page, and to a seperate *Gallery* page.
 
-![Image showing the navigation the LVAA page](assets/images/nav-bar.png)
+![Image showing the navigation on the LVAA page](assets/images/nav-bar.png)
 
 Each link works from all pages, including the *404* and *Thank You*, and takes the user tot he correct pages/individual sections.
+
+The navigation bar is responsive on smaller screens and the links are replaced by the burger style drop-down.
+
+![Image showing the responsive navigation on the LVAA page](assets/images/header-burger.png)
 
 #### Footer 
 
@@ -176,7 +180,6 @@ The image chosen was used to create the colour scheme for the page so it blends 
 The hero image includes the cover text 'Llynfi Valley Angling Association'.
 
 ![Image showing the navigation with hero image below it on the LVAA page](assets/images/header.png)
-
 
 #### About Us
 
