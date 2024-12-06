@@ -181,7 +181,17 @@ The hero image includes the cover text 'Llynfi Valley Angling Association'.
 
 ![Image showing the navigation with hero image below it on the LVAA page](assets/images/header.png)
 
+#### Home Page
+
 #### About Us
+
+On the *Home* page, under the Hero Image, is the *About Us* section. This section contains the *About Us* information for the LVAA and information about *The River* itself.
+
+![Image showing the About Us section on the LVAA page](assets/images/about-us-readme.png)
+
+This section is responsive to various screen sizes. On smaller screens it is set out in a scrolling grid with images and wording on top of each other. On larger screens the text and images alternate for a more effective layout.
+
+![Image showing the The River on a smaller screen](assets/images/river-small.png)
 
 #### Cards
 
