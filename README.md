@@ -189,6 +189,7 @@ Modal section – Found it difficult to get the correct responsiveness for the m
  - The modal form layout was incorrect and was not responsive - used Bootstrap to align correctly and reposnd to screen sizes.
  - The form did not have a submit button - added following testing.
  ![Image showing the form without a submit button](assets/images/form-no-button.png)
+ - The Thank you and 404 pages did not have any writing on them. So updated to include appropriate messages.
 
 ### Accessibility  
 
@@ -208,6 +209,7 @@ The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator Ser
 
 The deployed site has been across a number of browsers. 
 The site's appearance is excellent on all browsers. Responsiveness could be improved on browser for laptops and larger screens.
+
 Firefox cannot be tested as no access to Apple devices.
 
 | Browser Tested | Intended Appearance | Intended Responsiveness |
