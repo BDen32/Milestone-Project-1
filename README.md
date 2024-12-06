@@ -234,7 +234,7 @@ The page is responsive on various screen sizes.
 ## Testing 
 
 ### Bugs:
- - Navbar links did not work from Gallery page - now they go to each page/section correctly
+ - Navbar links did not work from *Gallery* page - now they go to each page/section correctly
  - The modal form layout was incorrect and was not responsive - used Bootstrap to align correctly and respond to screen sizes.
  - The form did not have a submit button - added following testing.
  ![Image showing the form without a submit button](assets/images/form-no-button.png)
@@ -282,25 +282,30 @@ Ideally, the User stories will be met by through the design of the site.
 As a potential new member, I want to:
 
 ⦁ Be able to easily navigate throughout the site to access the information I want.
+
 **The site contains a navigation bar, that links to all the pages and sections of the site**
 
 ⦁ Find relevant content about the club including membership prices to inform my choices.
+
 **Relevant pages and sections, including a membership section have been included on the site**
 
 ⦁ Be able to easily contact the club to be able to find out more information.
+
 **A contact us section with clickable links to the email and telephone are available**
 
 ⦁ Sign up to a newsletter to get regular updates about the club.
+
 **A form that allows the user to add name and email is available**
 
 ⦁ See photos of fish, the river, environment etc to help me decide if I want to join.
+
 **The site contains a responsive Gallery page with a variety of images**
 
 ## Deployment 
 
 The website was developed using Gitpod and was created in the "main" branch of GitHub. This branch was deployed using GitHub Pages. 
 
-To deploy the project you must:
+To deploy a project, you must:
 
 1. Open GitHub. 
 2. Click on the project that is to be deployed from the available repositories.
