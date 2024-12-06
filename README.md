@@ -3,7 +3,7 @@
 
 This website was designed for a local fishing club based in Maesteg, South Wales.   
 
-This website has been created the intial milestone project for Code Institute's Level 5 Full Stack Software Development Diploma. It was built using HTML, CSS and Bootstrap. GitPod was used for writing the code, as well as committing and pushing to GitHub, where it was stored.     
+This website has been created the initial milestone project for Code Institute's Level 5 Full Stack Software Development Diploma. It was built using HTML, CSS and Bootstrap. GitPod was used for writing the code, as well as committing and pushing to GitHub, where it was stored.     
 
 Once all the code had been written, GitPages was then used to deploy the website.     
 
@@ -40,6 +40,7 @@ Once all the code had been written, GitPages was then used to deploy the website
 4. [Testing](#Testing)  
 
     * [Accessibility](#Accessibility)
+
     * [Validation](#Validation) 
 
 5. [User Stories Met](#user-stories-met)
@@ -152,7 +153,7 @@ The colour scheme for the project was created by uploading an image of the Llynf
 
 The font chosen was imported from [Google Fonts](https://fonts.google.com/). 
 
-El Messiri was chosen as it is similar tothe font in the logo. Initially two fonts were used but the second was removed as the one font looked better overall.
+El Messiri was chosen as it is similar to the font in the logo. Initially two fonts were used but the second was removed as the one font looked better overall.
 
 ## Features 
 
@@ -160,11 +161,11 @@ El Messiri was chosen as it is similar tothe font in the logo. Initially two fon
 
 #### Header and navigation:
 
-Each page has a Header and Navigation bar section which sit at the top of each page. The navigation bar consists of links to the *Home* page, *About* section, *Membership* section, *Contact Us* section, which are all on the home page, and to a seperate *Gallery* page.
+Each page has a Header and Navigation bar section which sit at the top of each page. The navigation bar consists of links to the *Home* page, *About* section, *Membership* section, *Contact Us* section, which are all on the home page, and to a separate *Gallery* page.
 
 ![Image showing the navigation on the LVAA page](assets/images/nav-bar.png)
 
-Each link works from all pages, including the *404* and *Thank You*, and takes the user tot he correct pages/individual sections.
+Each link works from all pages, including the *404* and *Thank You*, and takes the user to the correct pages/individual sections.
 
 The navigation bar is responsive on smaller screens and the links are replaced by the burger style drop-down.
 
@@ -184,7 +185,7 @@ The hero image was chosen as it is an attention-grabbing, attractive image of th
 
 The image chosen was used to create the colour scheme for the page so it blends well to the overall design of the page.
 
-The hero image includes the cover text 'Llynfi Valley Angling Association'.
+The hero image includes the cover text 'LLYNFI VALLEY ANGLING ASSOCIATION'.
 
 ![Image showing the navigation with hero image below it on the LVAA page](assets/images/header.png)
 
@@ -206,7 +207,7 @@ The *About Us* section contains the sign up to the newsletter button.
 
 ![Image showing the newsletter sign up button](assets/images/button.png)
 
-When clicked, a modal pop up opens which contains a form to input first name, last name and email address. The form is responsive to screen size. It also will not let the information eb submitted if there are any empty areas or if the email is not correct.
+When clicked, a modal pop up opens which contains a form to input first name, last name and email address. The form is responsive to screen size. It also will not let the information be submitted if there are any empty areas or if the email is not correct.
 
 ![Image showing the newsletter sign up modal form](assets/images/modal.png)
 
@@ -216,7 +217,7 @@ When submitted, the form takes the user to the *Thank You* page.
 
 Underneath the *About Us* section, there are two cards which contain the contact and membership information.
 
-The cards are seperate sections which are linked to the navigation bar.
+The cards are separate sections which are linked to the navigation bar.
 
 ![Image showing cards on the LVAA page](assets/images/cards.png)
 
@@ -224,7 +225,7 @@ The cards are styled using Bootstrap and CSS for box shadow and to match the col
 
 ### Gallery
 
-This is a seperate page that contains a variety of images of fish, the river and club members.
+This is a separate page that contains a variety of images of fish, the river and club members.
 
 The page is responsive on various screen sizes.
 
@@ -241,7 +242,13 @@ The page is responsive on various screen sizes.
 
 ### Accessibility:
 
-The Lighthouse tool, part of Google Chrome DevTools. The site is ranked at 100 for accessibilty on mobile and desktop.
+The Lighthouse tool, part of Google Chrome DevTools. The site is ranked at 100 for accessibility on mobile and desktop.
+
+#### Mobile:
+![Image showing the Lighthouse tool and accessibilty ranked at 100 for mobile](assets/images/accessibility-mobile-1.png)
+
+#### Desktop:
+![Image showing the Lighthouse tool and accessibilty ranked at 100 for desktop](assets/images/accessibility-desktop-1.png)
 
 ### Validation:
  
@@ -253,14 +260,7 @@ The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator Ser
 #### CSS:
 ![Image showing the CSS validator showing no errors](assets/images/validation-css.png)
 
-
-#### Mobile:
-![Image showing the Lighthouse tool and accessibilty ranked at 100 for mobile](assets/images/accessibility-mobile-1.png)
-
-#### Desktop:
-![Image showing the Lighthouse tool and accessibilty ranked at 100 for desktop](assets/images/accessibility-desktop-1.png)
-
-### Browser Compatibilty
+### Browser Compatibility
 
 The deployed site has been across a number of browsers. 
 The site's appearance is excellent on all browsers. Responsiveness could be improved on browser for laptops and larger screens.
@@ -276,7 +276,7 @@ Firefox cannot be tested as no access to Apple devices.
 
 ## User Stories Met 
 
-This section looks back at the orignal User Stories that were established during the strategy phase of the project. 
+This section looks back at the original User Stories that were established during the strategy phase of the project. 
 Ideally, the User stories will be met by through the design of the site.
 
 As a potential new member, I want to:
