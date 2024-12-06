@@ -1,4 +1,11 @@
 # Llynfi Valley Angling Association   
+## Introduction:   
+
+This website was designed for a local fishing club based in Maesteg, South Wales.   
+
+This website has been created the intial milestone project for Code Institute's Level 5 Full Stack Software Development Diploma. It was built using HTML, CSS and Bootstrap. GitPod was used for writing the code, as well as committing and pushing to GitHub, where it was stored.     
+
+Once all the code had been written, GitPages was then used to deploy the website.     
 
 ![Image showing the sit on various screens](assets/images/responsive.png)
 
@@ -35,14 +42,6 @@
 
 7. [Credits](#Credits)
 
-
-## Introduction:   
-
-This website was designed for a local fishing club based in Maesteg, South Wales.   
-
-This website has been created the intial milestone project for Code Institute's Level 5 Full Stack Software Development Diploma. It was built using HTML, CSS and Bootstrap. GitPod was used for writing the code, as well as committing and pushing to GitHub, where it was stored.     
-
-Once all the code had been written, GitPages was then used to deploy the website.     
 
 ## User Experience UX:   
 
