@@ -151,20 +151,29 @@ El Messiri was chosen as it is similar tothe font in the logo. Initially two fon
 
 ## Features 
 
-### Header and navigation 
+#### Header and navigation 
 
-Each page has a Header and Navigation bar section which sit at the top of each page. The navigation bar consists of links to the *italicized text*Home page*italicized text*, About section, Membership section, Contact Us section, which are all on the home page, and to a seperate Gallery page.
+Each page has a Header and Navigation bar section which sit at the top of each page. The navigation bar consists of links to the *Home* page, *About* section, *Membership* section, *Contact Us* section, which are all on the home page, and to a seperate *Gallery* page.
 
 ![Image showing the navigation the LVAA page](assets/images/nav-bar.png)
 
+#### Footer 
+
+The footer sits at the bottom of each page. This contains links to LVAA's social media pages. Currently, the LVAA only have a Facebook page, but the other links go to the Instagram and Youtube home pages. Each icon opens in a new tab when clicked.
+
+The footer is simplistic but effective. The simplistic choice allows the footer design to be changed in the future if needed.
+
+![Image showing the footer on the LVAA page](assets/images/footer.png)
+
 #### Hero Image
+
 ![Image showing the navigation with hero image below it on the LVAA page](assets/images/header.png)
 
 #### About Us
 
 #### Cards
 
-### Footer 
+
 
 Modal section – Found it difficult to get the correct responsiveness for the modal itself. Was able to change the form but it was then too large for the modal area. Used ChatGPT to help improve the responsiveness. 
 
