@@ -193,6 +193,16 @@ This section is responsive to various screen sizes. On smaller screens it is set
 
 ![Image showing the The River on a smaller screen](assets/images/river-small.png)
 
+#### Sign Up Button
+
+The *About Us* section contains the sign up to the newsletter button.
+![Image showing the newsletter sign up button](assets/images/river-small.png)
+
+When clicked, a modal pop up opens which contains a form to input first name, last name and email address. The form is responsive to screen size. It also will not let the information eb submitted if there are any empty areas or if the email is not correct.
+![Image showing the newsletter sign up modal form](assets/images/modal.png)
+
+When submitted, the form takes the user to the *Thank You* page.
+
 #### Cards
 
 
