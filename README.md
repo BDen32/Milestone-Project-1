@@ -227,20 +227,27 @@ The page is responsive on various screen sizes.
 
 ## Testing 
 
-### Bugs
+### Bugs:
  - Navbar links did not work from Gallery page - now they go to each page/section correctly
  - The modal form layout was incorrect and was not responsive - used Bootstrap to align correctly and respond to screen sizes.
  - The form did not have a submit button - added following testing.
  ![Image showing the form without a submit button](assets/images/form-no-button.png)
  - The *Thank You* and *404* pages did not have any writing on them. So updated to include appropriate messages.
 
-### Accessibility  
+### Accessibility:
 
 The Lighthouse tool, part of Google Chrome DevTools. The site is ranked at 100 for accessibilty on mobile and desktop.
 
-### Validation 
+### Validation:
  
 The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator Services](https://jigsaw.w3.org/css-validator/) were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+#### HTML:
+![Image showing the HTML validator showing no errors](assets/images/validation-html.png)
+
+#### CSS:
+![Image showing the CSS validator showing no errors](assets/images/validation-css.png)
+
 
 #### Mobile:
 ![Image showing the Lighthouse tool and accessibilty ranked at 100 for mobile](assets/images/accessibility-mobile-1.png)
