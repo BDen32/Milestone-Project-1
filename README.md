@@ -153,6 +153,10 @@ El Messiri was chosen as it is similar tothe font in the logo. Initially two fon
 
 ### Header and navigation 
 
+Each page has a Header and Navigation bar section which sit at the top of each page. The navigation bar consists of links to the Home page, About  section, Membership section, Contact Us section, which are all on the home page, and to a seperate Gallery page.
+
+![Image showing the navigation and header on the LVAA page](assets/images/header.png)
+
 ### Home page 
 
 #### Hero Image
