@@ -157,17 +157,26 @@ Each page has a Header and Navigation bar section which sit at the top of each p
 
 ![Image showing the navigation the LVAA page](assets/images/nav-bar.png)
 
+Each link works from all pages, including the *404* and *Thank You*, and takes the user tot he correct pages/individual sections.
+
 #### Footer 
 
 The footer sits at the bottom of each page. This contains links to LVAA's social media pages. Currently, the LVAA only have a Facebook page, but the other links go to the Instagram and Youtube home pages. Each icon opens in a new tab when clicked.
 
-The footer is simplistic but effective. The simplistic choice allows the footer design to be changed in the future if needed.
-
 ![Image showing the footer on the LVAA page](assets/images/footer.png)
+
+The footer is simplistic but effective. The simplistic choice allows the footer design to be changed in the future if needed.
 
 #### Hero Image
 
+The hero image was chosen as it is an attention-grabbing, attractive image of the Llynfi River. It is featured on every page.
+
+The image chosen was used to create the colour scheme for the page so it blends well to the overall design of the page.
+
+The hero image includes the cover text 'Llynfi Valley Angling Association'.
+
 ![Image showing the navigation with hero image below it on the LVAA page](assets/images/header.png)
+
 
 #### About Us
 
