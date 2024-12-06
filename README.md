@@ -196,6 +196,7 @@ This section is responsive to various screen sizes. On smaller screens it is set
 #### Sign Up Button
 
 The *About Us* section contains the sign up to the newsletter button.
+
 ![Image showing the newsletter sign up button](assets/images/button.png)
 
 When clicked, a modal pop up opens which contains a form to input first name, last name and email address. The form is responsive to screen size. It also will not let the information eb submitted if there are any empty areas or if the email is not correct.
