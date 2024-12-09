@@ -201,18 +201,6 @@ This section is responsive to various screen sizes. On smaller screens it is set
 
 ![Image showing the The River on a smaller screen](assets/images/river-small.png)
 
-#### Sign Up Button:
-
-The *About Us* section contains the sign up to the newsletter button.
-
-![Image showing the newsletter sign up button](assets/images/button.png)
-
-When clicked, a modal pop up opens which contains a form to input first name, last name and email address. The form is responsive to screen size. It also will not let the information be submitted if there are any empty areas or if the email is not correct.
-
-![Image showing the newsletter sign up modal form](assets/images/modal.png)
-
-When submitted, the form takes the user to the *Thank You* page.
-
 #### Cards:
 
 Underneath the *About Us* section, there are two cards which contain the contact and membership information.
@@ -224,6 +212,20 @@ Cards were chosen for the site as they are flexible content containers that have
 ![Image showing cards on the LVAA page](assets/images/cards.png)
 
 The cards are styled using Bootstrap and CSS for box shadow and to match the colour scheme. 
+
+#### Sign Up Button:
+
+The *About Us* section originally contained the sign up to the newsletter button.
+
+![Image showing the newsletter sign up button](assets/images/button.png)
+
+However, when testing it was apparent that it was more suited to the contact us section.
+
+When clicked, a modal pop up opens which contains a form to input first name, last name and email address. The form is responsive to screen size. It also will not let the information be submitted if there are any empty areas or if the email is not correct to ensure the relevant information is collected for the LVAA newsletter to be distributed.
+
+![Image showing the newsletter sign up modal form](assets/images/modal.png)
+
+When submitted, the form takes the user to the *Thank You* page.
 
 ### Gallery
 
