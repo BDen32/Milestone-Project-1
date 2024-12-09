@@ -217,7 +217,9 @@ When submitted, the form takes the user to the *Thank You* page.
 
 Underneath the *About Us* section, there are two cards which contain the contact and membership information.
 
-The cards are separate sections which are linked to the navigation bar.
+The cards are separate sections which are linked to the navigation bar. 
+
+Cards were chosen for the site as they are flexible content containers that have options to include headers and footers, images background colors, and more and were modified to contain the relevant information needed for the LVAA site.
 
 ![Image showing cards on the LVAA page](assets/images/cards.png)
 
