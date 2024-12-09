@@ -350,5 +350,5 @@ To deploy a project, you must:
 
 ### Code:
  * Various coder forums were used when I had issues with specific aspects of the code. [W3Schools](https://www.w3schools.com/) was particularly helpful and provided walkthroughs. [ChatGPT](chatgpt.com) was also used when forums or other websites did not help me to solve issues I came across.
- * The hero image and cover text code was based on the Love Running code from Code Institute.
+ * The hero image, cover text and gallery code was based on the Love Running code from Code Institute.
  * The modal section was created by myself but [ChatGPT](chatgpt.com) supported making it responsive.
