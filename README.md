@@ -49,6 +49,8 @@ Once all the code had been written, GitPages was then used to deploy the website
 
 7. [Credits](#Credits)
 
+8. [Thanks](#Thanks)
+
 
 ## User Experience UX:   
 
@@ -347,8 +349,13 @@ To deploy a project, you must:
  * All images, including the logo, that have been used have been provided by the Llynfi Valley Angling Association.
  * The icons used throughout the website were taken from [Font Awesome](https://fontawesome.com/)
  * The fonts were taken from [Google Fonts](https://fonts.google.com/)
+ * Social media logos were proivded by [Font Awesome](https://fontawesome.com/)
 
 ### Code:
  * Various coder forums were used when I had issues with specific aspects of the code. [W3Schools](https://www.w3schools.com/) was particularly helpful and provided walkthroughs. [ChatGPT](chatgpt.com) was also used when forums or other websites did not help me to solve issues I came across.
+ * [Bootstrap](https://getbootstrap.com/) was utilised for responsiveness throughout the project.
  * The hero image, cover text and gallery code was based on the Love Running code from Code Institute.
  * The modal section was created by myself but [ChatGPT](chatgpt.com) supported making it responsive.
+
+## Thanks
+* Thank you to my mentor Rory Patrick Sheridan for the help and advice given throughout the project.
