@@ -245,11 +245,13 @@ The page is responsive on various screen sizes.
  - The form did not have a submit button - added following testing.
  ![Image showing the form without a submit button](assets/images/form-no-button.png)
  - The *Thank You* and *404* pages did not have any writing on them. So updated to include appropriate messages.
+ - The sign up button was moved to the contact us card as it was more of a suitable location.
 
 ### Accessibility:
 
 The Lighthouse tool, part of Google Chrome DevTools. The site is ranked at 100 for accessibility on mobile and desktop.
 
+#### Home Page:
 #### Mobile:
 ![Image showing the Lighthouse tool and accessibilty ranked at 100 for mobile](assets/images/accessibility-mobile-1.png)
 
@@ -265,6 +267,13 @@ The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator Ser
 
 #### CSS:
 ![Image showing the CSS validator showing no errors](assets/images/validation-css.png)
+
+#### Gallery:
+![Image showing the Lighthouse tool and accessibilty ranked at 100 for desktop on the Gallery page](assets/images/lighthouse-gallery.png)
+
+#### Thank You Page:
+
+![Image showing the Lighthouse tool and accessibilty ranked at 100 for desktop on the Thank You page](assets/images/thankyou-lighthouse.png)
 
 ### Browser Compatibility
 
