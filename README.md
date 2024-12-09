@@ -258,6 +258,13 @@ The Lighthouse tool, part of Google Chrome DevTools. The site is ranked at 100 f
 #### Desktop:
 ![Image showing the Lighthouse tool and accessibilty ranked at 100 for desktop](assets/images/accessibility-desktop-1.png)
 
+#### Gallery:
+![Image showing the Lighthouse tool and accessibilty ranked at 100 for desktop on the Gallery page](assets/images/lighthouse-gallery.png)
+
+#### Thank You Page:
+
+![Image showing the Lighthouse tool and accessibilty ranked at 100 for desktop on the Thank You page](assets/images/thankyou-lighthouse.png)
+
 ### Validation:
  
 The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator Services](https://jigsaw.w3.org/css-validator/) were used to validate every page of the project to ensure there were no syntax errors in the project.
@@ -267,13 +274,6 @@ The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator Ser
 
 #### CSS:
 ![Image showing the CSS validator showing no errors](assets/images/validation-css.png)
-
-#### Gallery:
-![Image showing the Lighthouse tool and accessibilty ranked at 100 for desktop on the Gallery page](assets/images/lighthouse-gallery.png)
-
-#### Thank You Page:
-
-![Image showing the Lighthouse tool and accessibilty ranked at 100 for desktop on the Thank You page](assets/images/thankyou-lighthouse.png)
 
 ### Browser Compatibility
 
