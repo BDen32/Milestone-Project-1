@@ -171,6 +171,8 @@ The navigation bar is responsive on smaller screens and the links are replaced b
 
 ![Image showing the responsive navigation on the LVAA page](assets/images/header-burger.png)
 
+The navigation bar has been made 'sticky'. Which means it appears on the top of the screen when scrolling. This helps the user to be able to access the dropdown and page options whereever they are on the site.
+
 #### Footer:
 
 The footer sits at the bottom of each page. This contains links to LVAA's social media pages. Currently, the LVAA only have a Facebook page, but the other links go to the Instagram and Youtube home pages. Each icon opens in a new tab when clicked.
@@ -339,3 +341,5 @@ To deploy a project, you must:
 
 ### Code:
  * Various coder forums were used when I had issues with specific aspects of the code. [W3Schools](https://www.w3schools.com/) was particularly helpful and provided walkthroughs. [ChatGPT](chatgpt.com) was also used when forums or other websites did not help me to solve issues I came across.
+ * The hero image and cover text code was based on the Love Running code from Code Institute.
+ * The modal section was created by myself but [ChatGPT](chatgpt.com) supported making it responsive.
